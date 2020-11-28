@@ -6,6 +6,7 @@
     --primary-color:#60A5FA;
     --dary-grey:#6B7280;
     --off-white:#F3F4F6;
+    --about-back:#DBEAFE;
 }
 
 
@@ -93,10 +94,24 @@ hr{
     padding:2rem;
 }
 
+.about-hero{
+    padding:2rem;
+}
+
 .hero .hero-img{
     max-width: 650px;
     margin: auto;
     display: block;
+}
+
+.about-hero .about-hero-img{
+    max-width: 650px;
+    margin: auto;
+    display: block;
+    border: 1px solid var(--primary-color);
+    border-radius: 50%;
+    height: 20rem;
+    width: 15rem;
 }
 
 .hero .hero-heading{
@@ -119,6 +134,17 @@ hr{
     word-spacing: 1px;
     padding-bottom:0.5rem;
     font-size: 1.5rem;
+}
+
+.about-hero .about-hero-description{
+    max-width: 650px;
+    margin: auto;
+    font-family: 'Montserrat';
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+    padding-bottom:0.5rem;
+    font-size: 1.5rem;
+}
 }
 
 .hero .hero-icons .icon-tiles{
