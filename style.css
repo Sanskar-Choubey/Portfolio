@@ -166,10 +166,15 @@ hr{
 
 .off-white{
  background-color:var(--off-white) ;
- border:1rem;
- font-style: 'MontSerrat';
+ 
+}
+
+.about-off-white{
+    background-color:var(--off-white);border:1rem;
+    font-style: 'MontSerrat';
  font-size: 1.2rem;
 }
+
 
 /* footers */
 
