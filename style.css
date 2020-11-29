@@ -61,6 +61,7 @@ hr{
 .list-item-inline{
     display:inline;
     padding:0rem 0.5rem;
+    font-size: 1.4rem;
 }
 
 /* for the navigation bar */
@@ -149,12 +150,13 @@ hr{
 }
 }
 
-.hero .hero-icons .icon-tiles{
+ .hero .hero-icons .icon-tiles{
     display:inline;
     max-width: 650px;
     margin: auto;
-    padding:1.5rem 1.5rem;
+    padding:1.5rem 2.5rem;
 }
+
 
 /* sections */
 .section{
