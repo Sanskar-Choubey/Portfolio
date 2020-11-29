@@ -108,7 +108,7 @@ hr{
 }
 
 .about-hero .about-hero-img{
-    max-width: 650px;
+    max-width: 350px;
     margin: auto;
     display: block;
     border: 1px solid var(--primary-color);
@@ -129,7 +129,7 @@ hr{
 }
 
 .hero .hero-description{
-    max-width: 650px;
+    max-width: 600px;
     margin: auto;
     color: var(--dary-grey);
     font-family: 'Montserrat';
@@ -140,7 +140,7 @@ hr{
 }
 
 .about-hero .about-hero-description{
-    max-width: 900px;
+    max-width: 600px;
     margin: auto;
     font-family: 'EB Garamond';
     letter-spacing: 0.5px;
@@ -152,7 +152,7 @@ hr{
 
  .hero .hero-description .hero-icons .icon-tiles{
     display:inline;
-    max-width: 650px;
+    max-width: 600px;
     margin: auto;
     padding:1.5rem 1.5rem;
 }
