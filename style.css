@@ -149,11 +149,11 @@ hr{
 }
 }
 
-.hero .hero-icons .icon-tiles{
-    display: inline;
+.hero .hero-icons .icon-tiles .social-link{
+    display:inline;
     max-width: 650px;
     margin: auto;
-    padding:1.5rem 2.5rem;
+    padding:1.5rem 2rem;
 }
 
 /* sections */
