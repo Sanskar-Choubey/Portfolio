@@ -151,7 +151,7 @@ hr{
 }
 
  .hero .hero-icons .icon-tiles{
-    display:inline;
+    display:inline-block;
     max-width: 650px;
     margin: auto;
     padding:1.5rem 2.5rem;
